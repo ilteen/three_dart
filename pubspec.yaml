@@ -31,12 +31,6 @@ dependencies:
   # flutter_webgpu:
   #   path: ../flutter_webgpu
 
-dependency_overrides:
-  three_dart_jsm:
-    path: ../three_dart_jsm
-  flutter_gl:
-    path: ../flutter_gl/flutter_gl
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
